@@ -1,0 +1,9 @@
+# Model weights consume too much space
+Lesson-2/Exercise/12_preprocessing_inputs/models/
+Lesson-2/Exercise/17_deploy_your_first_edge_app/models/
+Lesson-3/Exercise/07_convert_tf_model/
+Lesson-3/Exercise/10_convert_caffe_model/
+Lesson-3/Exercise/13_convert_onnx_model/
+Lesson-4/Exercise/5_feed_IR_to_Inference_Engine/models/
+Lesson-4/Exercise/10_inference_requests/models/
+Lesson-4/Exercise/13_integrate_into_app/models/
