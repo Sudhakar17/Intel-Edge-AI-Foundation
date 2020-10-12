@@ -7,3 +7,7 @@ Lesson-3/Exercise/13_convert_onnx_model/
 Lesson-4/Exercise/5_feed_IR_to_Inference_Engine/models/
 Lesson-4/Exercise/10_inference_requests/models/
 Lesson-4/Exercise/13_integrate_into_app/models/
+Lesson-5/Exercise/04_handling_input_streams/models/
+Lesson-5/Exercise/07_process_model_outputs/models/
+Lesson-5/Exercise/13_server_communications/models/
+Lesson-5/Exercise/13_server_communications/webservice/
